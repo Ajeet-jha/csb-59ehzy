@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://ajeet-jha.github.io/csb-59ehzy/static/js/main.a53c49d1.chunk.js",
+    "main.js.map": "https://ajeet-jha.github.io/csb-59ehzy/static/js/main.a53c49d1.chunk.js.map",
+    "runtime-main.js": "https://ajeet-jha.github.io/csb-59ehzy/static/js/runtime-main.7f35eb4d.js",
+    "runtime-main.js.map": "https://ajeet-jha.github.io/csb-59ehzy/static/js/runtime-main.7f35eb4d.js.map",
+    "static/js/2.431195cb.chunk.js": "https://ajeet-jha.github.io/csb-59ehzy/static/js/2.431195cb.chunk.js",
+    "static/js/2.431195cb.chunk.js.map": "https://ajeet-jha.github.io/csb-59ehzy/static/js/2.431195cb.chunk.js.map",
+    "index.html": "https://ajeet-jha.github.io/csb-59ehzy/index.html",
+    "static/js/2.431195cb.chunk.js.LICENSE.txt": "https://ajeet-jha.github.io/csb-59ehzy/static/js/2.431195cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f35eb4d.js",
+    "static/js/2.431195cb.chunk.js",
+    "static/js/main.a53c49d1.chunk.js"
+  ]
+}
